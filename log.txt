@@ -1,0 +1,169 @@
+[20-Dec-25 02:24:28 - INFO] - anony: Cache directories updated.
+[20-Dec-25 02:24:29 - INFO] - anony: Cache directories updated.
+[20-Dec-25 02:24:29 - INFO] - anony: Loaded languages: ar, de, en, es, fr, hi, ja, my, pa, pt, ru, zh
+[20-Dec-25 02:24:29 - INFO] - anony: Loaded languages: ar, de, en, es, fr, hi, ja, my, pa, pt, ru, zh
+[20-Dec-25 02:24:32 - INFO] - anony: Database connection successful. (2.43s)
+[20-Dec-25 02:24:32 - INFO] - anony: Database connection successful. (2.46s)
+[20-Dec-25 02:24:32 - INFO] - anony: Migrating users and chats from old collections...
+[20-Dec-25 02:24:32 - INFO] - anony: Migrating users and chats from old collections...
+[20-Dec-25 02:24:34 - INFO] - anony: Migration completed.
+[20-Dec-25 02:24:35 - INFO] - anony: Database cache loaded.
+[20-Dec-25 02:24:42 - INFO] - anony: Bot started as @MusicSC_GABOT
+[20-Dec-25 02:24:44 - INFO] - anony: Assistant 1 started as @Q058961
+[20-Dec-25 02:24:44 - INFO] - anony: PyTgCalls client(s) started.
+[20-Dec-25 02:24:44 - INFO] - anony: Loaded 21 modules.
+[20-Dec-25 02:24:45 - INFO] - anony: Loaded 1 sudo users.
+[20-Dec-25 02:25:06 - INFO] - anony: Stopping...
+[20-Dec-25 02:25:06 - INFO] - anony: Bot stopped.
+[20-Dec-25 02:25:06 - INFO] - anony: Assistants stopped.
+[20-Dec-25 02:25:06 - INFO] - anony: Database connection closed.
+[20-Dec-25 02:25:06 - INFO] - anony: Stopped.
+
+[20-Dec-25 02:25:08 - INFO] - anony: Cache directories updated.
+[20-Dec-25 02:25:08 - INFO] - anony: Loaded languages: ar, de, en, es, fr, hi, ja, my, pa, pt, ru, zh
+[20-Dec-25 02:25:11 - INFO] - anony: Database connection successful. (2.32s)
+[20-Dec-25 02:25:12 - INFO] - anony: Database cache loaded.
+[20-Dec-25 02:25:13 - INFO] - anony: Bot started as @MusicSC_GABOT
+[20-Dec-25 02:25:15 - INFO] - anony: Assistant 1 started as @Q058961
+[20-Dec-25 02:25:15 - INFO] - anony: PyTgCalls client(s) started.
+[20-Dec-25 02:25:15 - INFO] - anony: Loaded 21 modules.
+[20-Dec-25 02:25:16 - INFO] - anony: Loaded 1 sudo users.
+[20-Dec-25 02:26:23 - WARNING] - anony: Cookies are missing; downloads might fail.
+[20-Dec-25 02:45:49 - INFO] - anony: Cache directories updated.
+[20-Dec-25 02:45:50 - INFO] - anony: Loaded languages: ar, de, en, es, fr, hi, ja, my, pa, pt, ru, zh
+[20-Dec-25 02:45:56 - INFO] - anony: Database connection successful. (2.64s)
+[20-Dec-25 02:45:57 - INFO] - anony: Database cache loaded.
+[20-Dec-25 02:45:58 - INFO] - anony: Bot started as @MusicSC_GABOT
+[20-Dec-25 02:46:00 - INFO] - anony: Assistant 1 started as @Q058961
+[20-Dec-25 02:46:00 - INFO] - anony: PyTgCalls client(s) started.
+[20-Dec-25 02:46:00 - INFO] - anony: Loaded 21 modules.
+[20-Dec-25 02:46:01 - INFO] - anony: Loaded 1 sudo users.
+[20-Dec-25 02:48:24 - WARNING] - anony: Cookies are missing; downloads might fail.
+[20-Dec-25 02:49:26 - INFO] - anony: Stopping...
+[20-Dec-25 02:49:26 - INFO] - anony: Bot stopped.
+[20-Dec-25 02:49:26 - INFO] - anony: Assistants stopped.
+[20-Dec-25 02:49:27 - INFO] - anony: Database connection closed.
+[20-Dec-25 02:49:27 - INFO] - anony: Stopped.
+
+[20-Dec-25 02:49:31 - INFO] - anony: Cache directories updated.
+[20-Dec-25 02:49:31 - INFO] - anony: Loaded languages: ar, de, en, es, fr, hi, ja, my, pa, pt, ru, zh
+[20-Dec-25 02:49:34 - INFO] - anony: Database connection successful. (2.48s)
+[20-Dec-25 02:49:35 - INFO] - anony: Database cache loaded.
+[20-Dec-25 02:49:37 - INFO] - anony: Bot started as @MusicSC_GABOT
+[20-Dec-25 02:49:38 - INFO] - anony: Assistant 1 started as @Q058961
+[20-Dec-25 02:49:39 - INFO] - anony: PyTgCalls client(s) started.
+[20-Dec-25 02:49:39 - INFO] - anony: Loaded 21 modules.
+[20-Dec-25 02:49:39 - INFO] - anony: Loaded 1 sudo users.
+[20-Dec-25 02:49:50 - WARNING] - anony: Cookies are missing; downloads might fail.
+[20-Dec-25 02:56:16 - INFO] - anony: Stopping...
+[20-Dec-25 02:56:16 - INFO] - anony: Bot stopped.
+[20-Dec-25 02:56:16 - INFO] - anony: Assistants stopped.
+[20-Dec-25 02:56:16 - INFO] - anony: Database connection closed.
+[20-Dec-25 02:56:16 - INFO] - anony: Stopped.
+
+[20-Dec-25 02:56:23 - INFO] - anony: Cache directories updated.
+[20-Dec-25 02:56:23 - INFO] - anony: Loaded languages: ar, de, en, es, fr, hi, ja, my, pa, pt, ru, zh
+[20-Dec-25 02:56:25 - INFO] - anony: Database connection successful. (2.33s)
+[20-Dec-25 02:56:27 - INFO] - anony: Database cache loaded.
+[20-Dec-25 02:56:28 - INFO] - anony: Bot started as @MusicSC_GABOT
+[20-Dec-25 02:56:30 - INFO] - anony: Assistant 1 started as @Q058961
+[20-Dec-25 02:56:30 - INFO] - anony: PyTgCalls client(s) started.
+[20-Dec-25 02:56:30 - INFO] - anony: Loaded 21 modules.
+[20-Dec-25 02:56:30 - INFO] - anony: Loaded 1 sudo users.
+[20-Dec-25 03:00:55 - INFO] - anony: Stopping...
+[20-Dec-25 03:00:55 - INFO] - anony: Bot stopped.
+[20-Dec-25 03:00:55 - INFO] - anony: Assistants stopped.
+[20-Dec-25 03:00:55 - INFO] - anony: Database connection closed.
+[20-Dec-25 03:00:55 - INFO] - anony: Stopped.
+
+[20-Dec-25 03:00:58 - INFO] - anony: Cache directories updated.
+[20-Dec-25 03:00:58 - INFO] - anony: Loaded languages: ar, de, en, es, fr, hi, ja, my, pa, pt, ru, zh
+[20-Dec-25 03:01:01 - INFO] - anony: Database connection successful. (2.41s)
+[20-Dec-25 03:01:02 - INFO] - anony: Database cache loaded.
+[20-Dec-25 03:01:03 - INFO] - anony: Bot started as @MusicSC_GABOT
+[20-Dec-25 03:01:05 - INFO] - anony: Assistant 1 started as @Q058961
+[20-Dec-25 03:01:05 - INFO] - anony: PyTgCalls client(s) started.
+[20-Dec-25 03:01:05 - INFO] - anony: Loaded 21 modules.
+[20-Dec-25 03:01:06 - INFO] - anony: Loaded 1 sudo users.
+[20-Dec-25 03:01:13 - ERROR] - pyrogram.dispatcher: object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pyrogram/dispatcher.py", line 373, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/runner/workspace/anony/core/lang.py", line 84, in wrapper
+    return await func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/anony/helpers/_play.py", line 25, in wrapper
+    len(m.command) < 2 or (len(m.command) == 2 and m.command[1] == "-f")
+    ^^^^^^^^^^^^^^
+TypeError: object of type 'NoneType' has no len()
+[20-Dec-25 03:02:08 - INFO] - anony: Stopping...
+[20-Dec-25 03:02:08 - INFO] - anony: Bot stopped.
+[20-Dec-25 03:02:08 - INFO] - anony: Assistants stopped.
+[20-Dec-25 03:02:08 - INFO] - anony: Database connection closed.
+[20-Dec-25 03:02:08 - INFO] - anony: Stopped.
+
+[20-Dec-25 03:02:10 - INFO] - anony: Cache directories updated.
+[20-Dec-25 03:02:10 - INFO] - anony: Loaded languages: ar, de, en, es, fr, hi, ja, my, pa, pt, ru, zh
+[20-Dec-25 03:02:13 - INFO] - anony: Database connection successful. (2.39s)
+[20-Dec-25 03:02:15 - INFO] - anony: Database cache loaded.
+[20-Dec-25 03:02:16 - INFO] - anony: Bot started as @MusicSC_GABOT
+[20-Dec-25 03:02:18 - INFO] - anony: Assistant 1 started as @Q058961
+[20-Dec-25 03:02:18 - INFO] - anony: PyTgCalls client(s) started.
+[20-Dec-25 03:02:18 - INFO] - anony: Loaded 21 modules.
+[20-Dec-25 03:02:18 - INFO] - anony: Loaded 1 sudo users.
+[20-Dec-25 03:05:13 - INFO] - anony: Stopping...
+[20-Dec-25 03:05:13 - INFO] - anony: Bot stopped.
+[20-Dec-25 03:05:13 - INFO] - anony: Assistants stopped.
+[20-Dec-25 03:05:14 - INFO] - anony: Database connection closed.
+[20-Dec-25 03:05:14 - INFO] - anony: Stopped.
+
+[20-Dec-25 03:05:29 - INFO] - anony: Cache directories updated.
+[20-Dec-25 03:05:29 - INFO] - anony: Loaded languages: ar, de, en, es, fr, hi, ja, my, pa, pt, ru, zh
+[20-Dec-25 03:05:32 - INFO] - anony: Database connection successful. (2.35s)
+[20-Dec-25 03:05:33 - INFO] - anony: Database cache loaded.
+[20-Dec-25 03:05:34 - INFO] - anony: Bot started as @MusicSC_GABOT
+[20-Dec-25 03:05:36 - INFO] - anony: Assistant 1 started as @Q058961
+[20-Dec-25 03:05:36 - INFO] - anony: PyTgCalls client(s) started.
+[20-Dec-25 03:05:36 - INFO] - anony: Loaded 21 modules.
+[20-Dec-25 03:05:37 - INFO] - anony: Loaded 1 sudo users.
+[20-Dec-25 03:13:33 - ERROR] - pyrogram.dispatcher: Connection cannot be initialized more than once.
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pyrogram/dispatcher.py", line 373, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/runner/workspace/anony/core/lang.py", line 84, in wrapper
+    return await func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/anony/helpers/_play.py", line 119, in wrapper
+    return await play(_, m, force, m3u8, video, url)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/anony/plugins/play.py", line 123, in play_hndlr
+    await anon.play_media(chat_id=m.chat.id, message=sent, media=file)
+  File "/home/runner/workspace/anony/core/calls.py", line 75, in play_media
+    await client.play(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pytgcalls/statictypes.py", line 96, in async_wrapper
+    return await func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pytgcalls/mtproto_required.py", line 23, in async_wrapper
+    return await func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pytgcalls/mutex.py", line 12, in async_wrapper
+    return await func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pytgcalls/methods/stream/play.py", line 81, in play
+    await self._connect_call(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pytgcalls/methods/internal/connect_call.py", line 33, in _connect_call
+    payload = await self._binding.create_call(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/7d088dip86hlzri9sk0h78b63yfmx0a0-python3-3.11.13/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ntgcalls.ConnectionError: Connection cannot be initialized more than once.
+[20-Dec-25 14:28:56 - INFO] - anony: Cache directories updated.
+[20-Dec-25 14:28:56 - INFO] - anony: Loaded languages: ar, de, en, es, fr, hi, ja, my, pa, pt, ru, zh
+[20-Dec-25 14:29:01 - INFO] - anony: Database connection successful. (2.41s)
+[20-Dec-25 14:29:02 - INFO] - anony: Database cache loaded.
+[20-Dec-25 14:29:04 - INFO] - anony: Bot started as @MusicSC_GABOT
+[20-Dec-25 14:29:06 - INFO] - anony: Assistant 1 started as @Q058961
+[20-Dec-25 14:29:06 - INFO] - anony: PyTgCalls client(s) started.
+[20-Dec-25 14:29:06 - INFO] - anony: Loaded 21 modules.
+[20-Dec-25 14:29:07 - INFO] - anony: Loaded 1 sudo users.

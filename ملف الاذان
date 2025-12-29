@@ -1,4 +1,3 @@
-اريد جعل هاذا الكود شغال وذكي ويستهلك أقل ويكون دائما سريع 
 import asyncio
 import random
 import aiohttp
